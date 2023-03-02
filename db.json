@@ -1,37 +1,49 @@
 {
-  "products": [
-   {
-    "id": 1,
-    "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/p10_large.jpg?v=1674275306",
-  "rating": 5,
-  "title": "DroSafe Charger",
-  "categories": "iphone"
-  "price": 85.00,
-  "salePrice": 75.00,
-  "tags": ["smartphone", "apple", "iphone"],
-   "color": "black"
-  },
-  {
-    "id": 2,
-    "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/13_large.jpg?v=1674275345",
-  "rating": 5,
-  "title": "DroSafe Charger",
-  "categories": "accessories"
-  "price": 75.0,
-  "salePrice": 55.00,
-  "tags": ["smartwatch", "apple", "applewactch"],
-   "color": "gray"
-  },
-  {
-    "id": 3,
-    "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/p2_ea1ad2a2-ba0d-4dd2-b29a-e51fd931583b_large.jpg?v=1674275324",
-  "rating": 5,
-  "title": "DroSafe Charger",
-  "categories": "laptop"
-  "price": 255.00,
-  "salePrice": 201.00,
-  "tags": ["laptop", "apple", "macbook"],
-   "color": "gray"
-  }
-  ]
+    "products": [
+        {
+            "id": 1,
+            "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/p10_large.jpg?v=1674275306",
+            "rating": 5,
+            "title": "DroSafe Charger",
+            "categories": "iphone",
+            "price": 85.00,
+            "salePrice": 75.00,
+            "tags": [
+                "smartphone",
+                "apple",
+                "iphone"
+            ],
+            "color": "black"
+        },
+        {
+            "id": 2,
+            "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/13_large.jpg?v=1674275345",
+            "rating": 5,
+            "title": "DroSafe Charger",
+            "categories": "accessories",
+            "price": 75.0,
+            "salePrice": 55.00,
+            "tags": [
+                "smartwatch",
+                "apple",
+                "applewactch"
+            ],
+            "color": "gray"
+        },
+        {
+            "id": 3,
+            "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/p2_ea1ad2a2-ba0d-4dd2-b29a-e51fd931583b_large.jpg?v=1674275324",
+            "rating": 5,
+            "title": "DroSafe Charger",
+            "categories": "laptop",
+            "price": 255.00,
+            "salePrice": 201.00,
+            "tags": [
+                "laptop",
+                "apple",
+                "macbook"
+            ],
+            "color": "gray"
+        }
+    ]
 }

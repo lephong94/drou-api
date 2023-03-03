@@ -5,13 +5,13 @@
             "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/p10_large.jpg?v=1674275306",
             "rating": 5,
             "title": "DroSafe Charger",
-            "categories": "iphone",
+            "categories": "Accessories",
             "price": 85.00,
             "salePrice": 75.00,
             "tags": [
                 "smartphone",
                 "apple",
-                "iphone"
+                "Accessories"
             ],
             "color": "black"
         },
@@ -19,7 +19,7 @@
             "id": 2,
             "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/13_large.jpg?v=1674275345",
             "rating": 5,
-            "title": "DroSafe Charger",
+            "title": "Apple watch ultra",
             "categories": "accessories",
             "price": 75.0,
             "salePrice": 55.00,
@@ -34,7 +34,7 @@
             "id": 3,
             "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/p2_ea1ad2a2-ba0d-4dd2-b29a-e51fd931583b_large.jpg?v=1674275324",
             "rating": 5,
-            "title": "DroSafe Charger",
+            "title": "Macbook pro  space gray",
             "categories": "laptop",
             "price": 255.00,
             "salePrice": 201.00,
@@ -44,6 +44,108 @@
                 "macbook"
             ],
             "color": "gray"
+        },
+        {
+            "id": 4,
+            "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/12_large.jpg?v=1674275341",
+            "rating": 5,
+            "title": "DrouPods max",
+            "categories": "headphone",
+            "price": 123.00,
+            "salePrice": 108.00,
+            "tags": [
+                "headphone",
+                "apple"
+            ],
+            "color": "gray"
+        },
+        {
+            "id": 5,
+            "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/p4_large.jpg?v=1674275315",
+            "rating": 5,
+            "title": "IPods Pro white",
+            "categories": "inear phone",
+            "price": 39,
+            "salePrice": null,
+            "tags": [
+                "ipod",
+                "apple"
+            ],
+            "color": "white"
+        },
+        {
+            "id": 6,
+            "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/p9_large.jpg?v=1674275297",
+            "rating": 5,
+            "title": "Home entertainment",
+            "categories": "TV box",
+            "price": 79,
+            "salePrice": null,
+            "tags": [
+                "tv box",
+                "apple"
+            ],
+            "color": "black"
+        },
+        {
+            "id": 7,
+            "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/11_c6c97b67-edac-48bd-8e5c-cf0de5e9e3cb_large.jpg?v=1674275302",
+            "rating": 5,
+            "title": "Homepod mini 2022",
+            "categories": "Mini Speakers",
+            "price": 63,
+            "salePrice": null,
+            "tags": [
+                "Mini Speakers",
+                "apple"
+            ],
+            "color": "black"
+        },
+        {
+            "id": 8,
+            "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/p7_large.jpg?v=1674275329",
+            "rating": 5,
+            "title": "lPhone 13 white color",
+            "categories": "iphone",
+            "price": 530,
+            "salePrice": 510,
+            "tags": [
+                "iphone",
+                "apple"
+            ],
+            "color": "white"
+        },
+        {
+            "id": 9,
+            "image": "https://cdn.shopify.com/s/files/1/1130/3412/products/p7_36d931d4-1ef2-4c82-9a65-80426fb77f21_large.jpg?v=1674275335",
+            "rating": 5,
+            "title": "lPhone 14 white color",
+            "categories": "iphone",
+            "price": 782,
+            "salePrice": 750,
+            "tags": [
+                "iphone",
+                "apple"
+            ],
+            "color": "white"
         }
+    ],
+    "categories": [
+        "accessories",
+        "headphones",
+        "iPhone",
+        "laptop",
+        "mini Speakers"
+    ],
+    "tags": [
+        "smartphone",
+        "apple",
+        "Accessories",
+        "smartwatch",
+        "tv box",
+        "laptop",
+        "headphone",
+        "iphone",
+        "Mini Speakers"
     ]
 }

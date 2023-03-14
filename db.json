@@ -147,5 +147,16 @@
         "headphone",
         "iphone",
         "Mini Speakers"
+    ],
+    "colors": [
+        "red",
+        "blue",
+        "gray",
+        "white",
+        "gold",
+        "gray",
+        "magenta",
+        "maroon",
+        "navy"
     ]
 }
